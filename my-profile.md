@@ -14,6 +14,8 @@
 
 [最近喜歡的一張專輯](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN?si=P9fGpQTBSE-Mm2qUhGvbJg)
 
+![重新用doulingo的第一天](duolingo.png)
+
 >任憑時光你是多狠 我要我的選擇 為了快樂抗爭
 
 |  學習經歷   | 時間  |
