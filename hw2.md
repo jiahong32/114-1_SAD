@@ -17,7 +17,7 @@
 ## 甘特圖
 ```mermaid
 gantt
-    title 專案甘特圖 (含依賴關係)
+    title 專案甘特圖
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
